@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println(" /\\_/\\");
         System.out.println("( o.o )");
         System.out.println(" > ^ <");
+        System.err.println("Test erreur");
     }
 
     
