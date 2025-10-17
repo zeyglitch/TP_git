@@ -7,6 +7,12 @@ public class HelloWorld {
         System.out.println(" /\\_/\\");
         System.out.println("( o.o )");
         System.out.println(" > ^ <");
+        // chien ascii art
+        System.out.println("  / \\__");
+        System.out.println(" (    @\\___");
+        System.out.println(" /         O");
+        System.out.println("/   (_____/");
+        System.out.println("/_____/   U");
     }
 
     
