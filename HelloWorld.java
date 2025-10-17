@@ -15,6 +15,4 @@ public class HelloWorld {
         System.out.println("/   (_____/");
         System.out.println("/_____/   U");
     }
-
-    
 }
