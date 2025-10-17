@@ -1,0 +1,21 @@
+# Ignorer les fichiers de classe Java
+*.class
+
+# Ignorer les dossiers de build
+/bin/
+/build/
+
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
+
+# Ignorer les fichiers de configuration d'IDE
+.vscode/
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichier compilé spécifique à ce projet
